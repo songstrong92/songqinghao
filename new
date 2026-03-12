@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Chiv Hunt | Song Qingzhao Zhufu</title>
+  <meta name="description" content="The Chiv Hunt — a record of fights, lessons, and growth on the path of learning." />
+  <style>
+    :root{
+      --bg:#0a0c0b;
+      --panel:#151b18;
+      --panel-2:#1b231f;
+      --line:rgba(180,190,185,0.18);
+      --jade:#3f8f68;
+      --jade-bright:#6dc89a;
+      --silver:#c0c7c4;
+      --silver-soft:#98a39d;
+      --ink:#e6ece8;
+      --shadow:0 20px 50px rgba(0,0,0,0.35);
+      --radius:20px;
+      --max:900px;
+    }
+
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family: Georgia, "Times New Roman", serif;
+      background:
+        radial-gradient(circle at top, rgba(63,143,104,0.18), transparent 35%),
+        linear-gradient(180deg, #0a0c0b 0%, #0d1110 40%, #090a09 100%);
+      color:var(--ink);
+      line-height:1.7;
+    }
+
+    a{color:var(--jade-bright);text-decoration:none}
+    a:hover{color:#8ce0b2}
+
+    .wrap{
+      width:min(var(--max), calc(100% - 2rem));
+      margin:0 auto;
+    }
+
+    .top{
+      padding:3rem 0 1.5rem;
+    }
+
+    .hero{
+      background:linear-gradient(180deg, rgba(21,27,24,0.96), rgba(15,20,18,0.92));
+      border:1px solid var(--line);
+      border-radius:var(--radius);
+      box-shadow:var(--shadow);
+      padding:2rem;
+    }
+
+    .eyebrow{
+      display:inline-block;
+      padding:0.35rem 0.7rem;
+      border:1px solid rgba(109,200,154,0.25);
+      border-radius:999px;
+      color:var(--jade-bright);
+      background:rgba(63,143,104,0.08);
+      font-size:0.82rem;
+      letter-spacing:0.08em;
+      text-transform:uppercase;
+      margin-bottom:1rem;
+    }
+
+    h1,h2,h3{
+      line-height:1.15;
+      margin:0 0 0.8rem;
+    }
+
+    h1{
+      font-size:clamp(2.2rem, 6vw, 4rem);
+      color:#fff;
+    }
+
+    h2{
+      color:var(--jade-bright);
+      margin-top:2rem;
+    }
+
+    h3{
+      color:#fff;
+      margin-top:1.5rem;
+    }
+
+    p{
+      margin:0 0 1rem;
+      color:#dbe3de;
+    }
+
+    .lead{
+      font-size:1.1rem;
+      color:var(--silver);
+      max-width:42rem;
+    }
+
+    .panel{
+      margin-top:1.25rem;
+      padding:1.25rem;
+      border-radius:16px;
+      background:linear-gradient(180deg, rgba(27,35,31,0.96), rgba(16,21,19,0.96));
+      border:1px solid var(--line);
+    }
+
+    ul{
+      padding-left:1.2rem;
+    }
+
+    li{
+      margin:0.35rem 0;
+    }
+
+    .timeline-group{
+      margin-top:1rem;
+      padding-top:0.25rem;
+      border-top:1px solid rgba(255,255,255,0.06);
+    }
+
+    .note{
+      margin-top:1.5rem;
+      padding:1rem 1.1rem;
+      border-left:3px solid var(--jade);
+      background:rgba(255,255,255,0.03);
+      font-style:italic;
+      color:#edf5f0;
+    }
+
+    .footer{
+      padding:2rem 0 3rem;
+      color:var(--silver-soft);
+      font-size:0.95rem;
+    }
+
+    .btn{
+      display:inline-block;
+      margin-top:1rem;
+      padding:0.8rem 1rem;
+      border-radius:999px;
+      font-weight:700;
+      border:1px solid rgba(109,200,154,0.3);
+      background:rgba(63,143,104,0.1);
+      color:#f2faf5;
+    }
+  </style>
+</head>
+<body>
+  <main class="top">
+    <div class="wrap">
+      <section class="hero">
+        <div class="eyebrow">Song Qingzhao Zhufu</div>
+        <h1>The Chiv Hunt</h1>
+        <p class="lead">
+          A personal record of fighting members of the Order of Chivalry. Each signature represents a fight, a lesson, and a step along the path of learning.
+        </p>
+
+        <div class="panel">
+          <h2>Hunt Stats</h2>
+          <ul>
+            <li>Knights fought: 47</li>
+            <li>Events visited: 18</li>
+            <li>Kingdoms fought in: 3</li>
+            <li>Years active: 2023–Present</li>
+          </ul>
+        </div>
+
+        <div class="panel">
+          <h2>Signature Timeline</h2>
+
+          <div class="timeline-group">
+            <h3>2025</h3>
+            <ul>
+              <li>Sir Ulrich von Brandenburg — Gulf Wars</li>
+              <li>Sir ___ — Pennsic</li>
+              <li>Sir ___ — Silver Hammer</li>
+            </ul>
+          </div>
+
+          <div class="timeline-group">
+            <h3>2024</h3>
+            <ul>
+              <li>Sir ___ — War of the Wings</li>
+              <li>Sir ___ — Castle Wars</li>
+              <li>Sir ___ — Yule Toy</li>
+            </ul>
+          </div>
+
+          <div class="timeline-group">
+            <h3>2023</h3>
+            <ul>
+              <li>Sir ___ — Silver Hammer</li>
+              <li>Sir ___ — Meridian Grand Tournament</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="panel">
+          <h2>Lessons Learned</h2>
+
+          <p><strong>Sir Ulrich von Brandenburg</strong><br>
+          Lesson: Control the distance before committing to a strike.</p>
+
+          <p><strong>Sir ___</strong><br>
+          Lesson: Footwork wins fights before the sword moves.</p>
+        </div>
+
+        <div class="note">
+          The Chiv Hunt is not just a list of names. It is a record of growth, humility, and the lessons earned one fight at a time.
+        </div>
+
+        <a class="btn" href="https://www.facebook.com/share/1AhxAaLQzQ/?" target="_blank" rel="noopener noreferrer">Follow on Facebook</a>
+      </section>
+
+      <div class="footer">
+        Song Qingzhao Zhufu • #SongStrong • #GreenKid
+      </div>
+    </div>
+  </main>
+</body>
+</html>
