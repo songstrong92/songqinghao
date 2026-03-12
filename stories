@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Stories – Song Qingzhao Zhufu</title>
+
+<style>
+
+body{
+    font-family: Georgia, serif;
+    background:#111;
+    color:#eee;
+    margin:0;
+}
+
+header{
+    background:black;
+    padding:30px;
+    text-align:center;
+}
+
+header h1{
+    color:gold;
+}
+
+nav{
+    background:#222;
+    padding:12px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    margin:15px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+section{
+    max-width:900px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+.story{
+    margin-bottom:70px;
+}
+
+.story h2{
+    color:gold;
+}
+
+.story img{
+    width:100%;
+    max-width:500px;
+    margin-top:15px;
+    border-radius:8px;
+}
+
+footer{
+    text-align:center;
+    padding:30px;
+    background:black;
+    color:#888;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Stories Behind the Work</h1>
+<p>Art, friendship, and moments captured in glass.</p>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="chiv-hunt.html">Chiv Hunt</a>
+<a href="stories.html">Stories</a>
+<a href="art.html">Art Gallery</a>
+</nav>
+
+<section>
+
+<div class="story">
+
+<h2>The Laurel Glass</h2>
+
+<p>
+This glass was made for Jennifer Caudipteryx when she was elevated to the Order of the Laurel.  
+When I wrote the post, I told her something that was very true: I wouldn't have gotten through some difficult parts of my life without her support. When I had to rehome my cats and was dealing with a lot emotionally, she was there.
+</p>
+
+<p>
+But beyond that, she represents what it means to be a peer. Her dedication to art and the people around her is incredible. Making this glass felt like the smallest way I could say thank you for being part of my life.
+</p>
+
+</div>
+
+
+<div class="story">
+
+<h2>Esme's Vigil Glass</h2>
+
+<p>
+When I heard Candace Musmeci — Esme Bramley — was being placed on vigil, I jumped on the opportunity to make a glass for her. Someone jokingly told me “If you love Esme, come to Ymir,” and that was enough motivation for me.
+</p>
+
+<p>
+Years earlier I had gone to Ymir and stayed in a cabin with people I had never met. Esme was one of the people who made that weekend unforgettable. She has always been someone I could talk to when I was frustrated and someone who celebrated with me when things went well.
+</p>
+
+<p>
+She’s also the friend I tag in glamour photos because of a running joke she once made. That kind of humor and kindness is exactly who she is. I didn’t need to tell her to “be the peer a newcomer needs to see.” She already was.
+</p>
+
+</div>
+
+
+<div class="story">
+
+<h2>The First Song Scroll</h2>
+
+<p>
+I had talked about wanting to create a scroll for a long time. Eventually I decided to stop waiting and just try it.
+</p>
+
+<p>
+I partnered with Adela Scrijver van Brugge and Tom Saucer. Tom wanted to write the text and I wanted to engrave the artwork on glass. When we looked through potential recipients, I saw a name I had known since I was young and immediately asked if I could take that one.
+</p>
+
+<p>
+My first attempt broke because I used a cheap frame and applied too much pressure. Later I switched to a better piece of glass but ran into another issue when my engraving bit started to wear down. Even with the mistakes, I loved the result.
+</p>
+
+<p>
+It was my first time creating a full scroll piece rather than just engraving names or small designs. When people heard I had made a scroll they assumed I meant calligraphy. When they realized it was glass they said, “Oh. That means it’s a Song Scroll.”
+</p>
+
+</div>
+
+
+<div class="story">
+
+<h2>The Rodney Glass</h2>
+
+<p>
+This glass was one of the most emotional pieces I've ever made.
+</p>
+
+<p>
+It was a gift celebrating the knighting of a friend. When I told David Stewart he might cry when he saw it, he said he wouldn’t. He didn’t — but the moment was still powerful.
+</p>
+
+<p>
+The glass was given from me and Rodney Woods. Rodney meant a lot to both of us and capturing this moment in glass felt like preserving something important in time.
+</p>
+
+</div>
+
+
+<div class="story">
+
+<h2>Elevation Gifts</h2>
+
+<p>
+One of my favorite things about making art in the SCA is creating gifts for people’s elevations. Every one of these pieces represents a story and a relationship.
+</p>
+
+<p>
+For Carson Reed I created a mug celebrating his elevation to the Order of the Mark. Carson is one of the people who pushed me to organize my first interkingdom practice — which eventually grew into what is now known as Borders Without Walls.
+</p>
+
+<p>
+For Adela Scrijver van Brugge I made a pelican-themed pitcher. It broke during travel but she immediately said she could repair it with epoxy and gold, seeing beauty in the broken piece.
+</p>
+
+<p>
+That moment perfectly summed up why she deserved the Pelican.
+</p>
+
+</div>
+
+
+<div class="story">
+
+<h2>Stained Glass Experiments</h2>
+
+<p>
+Not all of my projects are engraving. Sometimes I experiment with other materials like stained glass.
+</p>
+
+<p>
+These pieces were made as gifts from the Shire of Nantyderwyddon to the Crown. They combine heraldry with glasswork and let me explore color in ways engraving cannot.
+</p>
+
+</div>
+
+</section>
+
+<footer>
+<p>Website of Song Qingzhao Zhufu</p>
+</footer>
+
+</body>
+</html>
